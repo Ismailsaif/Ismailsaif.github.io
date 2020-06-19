@@ -1,30 +1,30 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="saif.com" resolutions="1x" timestamp="1592158825266">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="saif.com" resolutions="1x" timestamp="1592547760995">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="4205166837" ref="education:resume:personal-gallary:certificate:gallery:index:project:experiences:contact:portfolio:achievement"/>
-    <file name="nomq_preview_master_a-master.css" crc="4099010443" ref="education:resume:personal-gallary:certificate:gallery:index:project:experiences:contact:portfolio:achievement"/>
-    <file name="education.css" crc="536106713" ref="education"/>
-    <file name="nomq_education.css" crc="241428746" ref="education"/>
-    <file name="resume.css" crc="318651300" ref="resume"/>
-    <file name="nomq_resume.css" crc="208610347" ref="resume"/>
-    <file name="personal-gallary.css" crc="3785316316" ref="personal-gallary"/>
-    <file name="nomq_personal-gallary.css" crc="220562700" ref="personal-gallary"/>
-    <file name="certificate.css" crc="522042622" ref="certificate"/>
-    <file name="nomq_certificate.css" crc="3939944292" ref="certificate"/>
-    <file name="gallery.css" crc="491246377" ref="gallery"/>
-    <file name="nomq_gallery.css" crc="157647188" ref="gallery"/>
-    <file name="index.css" crc="375383850" ref="index"/>
-    <file name="nomq_index.css" crc="3862968555" ref="index"/>
-    <file name="project.css" crc="116157235" ref="project"/>
-    <file name="nomq_project.css" crc="225161185" ref="project"/>
-    <file name="experiences.css" crc="3867759215" ref="experiences"/>
+    <file name="master_a-master.css" crc="386271119" ref="personal-gallary:certificate:gallery:index:project:experiences:contact:portfolio:achievement:education:resume"/>
+    <file name="nomq_preview_master_a-master.css" crc="233908046" ref="personal-gallary:certificate:gallery:index:project:experiences:contact:portfolio:achievement:education:resume"/>
+    <file name="personal-gallary.css" crc="4110075024" ref="personal-gallary"/>
+    <file name="nomq_personal-gallary.css" crc="4007778651" ref="personal-gallary"/>
+    <file name="certificate.css" crc="4269337993" ref="certificate"/>
+    <file name="nomq_certificate.css" crc="448814082" ref="certificate"/>
+    <file name="gallery.css" crc="155055309" ref="gallery"/>
+    <file name="nomq_gallery.css" crc="4204048644" ref="gallery"/>
+    <file name="index.css" crc="286021010" ref="index"/>
+    <file name="nomq_index.css" crc="351286067" ref="index"/>
+    <file name="project.css" crc="4133603546" ref="project"/>
+    <file name="nomq_project.css" crc="3915072646" ref="project"/>
+    <file name="experiences.css" crc="394905738" ref="experiences"/>
     <file name="nomq_experiences.css" crc="888109" ref="experiences"/>
-    <file name="contact.css" crc="3932567388" ref="contact"/>
-    <file name="nomq_contact.css" crc="115216244" ref="contact"/>
-    <file name="portfolio.css" crc="480325743" ref="portfolio"/>
-    <file name="nomq_portfolio.css" crc="283617689" ref="portfolio"/>
-    <file name="achievement.css" crc="3883140039" ref="achievement"/>
+    <file name="contact.css" crc="495565301" ref="contact"/>
+    <file name="nomq_contact.css" crc="4066763511" ref="contact"/>
+    <file name="portfolio.css" crc="3856031082" ref="portfolio"/>
+    <file name="nomq_portfolio.css" crc="229207198" ref="portfolio"/>
+    <file name="achievement.css" crc="142905127" ref="achievement"/>
     <file name="nomq_achievement.css" crc="34946425" ref="achievement"/>
+    <file name="education.css" crc="3876408769" ref="education"/>
+    <file name="nomq_education.css" crc="241428746" ref="education"/>
+    <file name="resume.css" crc="3846189692" ref="resume"/>
+    <file name="nomq_resume.css" crc="208610347" ref="resume"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:portfolio:resume:gallery:contact:education:certificate:experiences:achievement:personal-gallary:project"/>
@@ -32,15 +32,16 @@
     <file name="whatinput.js" crc="86476730" ref="index:portfolio:resume:gallery:contact:education:certificate:experiences:achievement:personal-gallary:project"/>
     <file name="museconfig.js" crc="3936894949" ref="index:portfolio:resume:gallery:contact:education:certificate:experiences:achievement:personal-gallary:project"/>
     <file name="jquery.musemenu.js" crc="4139692962" ref="index:portfolio:resume:gallery:contact:education:certificate:experiences:achievement:personal-gallary:project"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index:portfolio:resume:gallery:contact:education:experiences:achievement:personal-gallary:project"/>
     <file name="jquery.watch.js" crc="522499760" ref="index:portfolio:resume:gallery:contact:education:certificate:experiences:achievement:personal-gallary:project"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index:portfolio:resume:gallery:contact:education:experiences:achievement:personal-gallary:project"/>
     <file name="webpro.js" crc="3856315280" ref="index:portfolio:resume:gallery:contact:education:certificate:experiences:achievement:personal-gallary:project"/>
-    <file name="musewpslideshow.js" crc="244150766" ref="index:portfolio:resume:gallery:contact:education:certificate:experiences:achievement:personal-gallary:project"/>
-    <file name="jquery.museoverlay.js" crc="3877667098" ref="index:portfolio:resume:gallery:contact:education:certificate:experiences:achievement:personal-gallary:project"/>
-    <file name="touchswipe.js" crc="3888935200" ref="index:portfolio:resume:gallery:contact:education:certificate:experiences:achievement:personal-gallary:project"/>
+    <file name="musewpdisclosure.js" crc="4294234138" ref="index:portfolio:resume:gallery:contact:education:certificate:experiences:achievement:personal-gallary:project"/>
     <file name="html5shiv.js" crc="4241844378" ref="index:portfolio:resume:gallery:contact:education:certificate:experiences:achievement:personal-gallary:project"/>
     <file name="jquery.museresponsive.js" crc="95814420" ref="index:portfolio:resume:gallery:contact:education:certificate:experiences:achievement:personal-gallary:project"/>
     <file name="require.js" crc="4177726516" ref="index:portfolio:resume:gallery:contact:education:certificate:experiences:achievement:personal-gallary:project"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="achievement:personal-gallary"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="achievement:personal-gallary"/>
+    <file name="touchswipe.js" crc="3888935200" ref="achievement:personal-gallary"/>
   </folder>
   <folder name="images">
     <file name="arrowmenudown.png" crc="262559161" ref="index">
@@ -59,12 +60,13 @@
     </file>
     <file name="saif2.jpg" crc="485394790" ref="index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="unnamed.jpg" crc="3959256575" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u1002-14.png" crc="490684352" ref="index"/>
-    <file name="u1111-4.png" crc="4128834565" ref="index"/>
+    <file name="u1002-16.png" crc="4043964220" ref="index"/>
+    <file name="u1111-4.png" crc="3875702325" ref="index"/>
     <file name="594856e648906266caa5f442141b4119_divergent-thinking-thought-download-ppt-divergent-thinking-_260-320.jpg" crc="188169306" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -79,7 +81,9 @@
     <file name="png-transparent-strategic-negotiations-strategy-business-management-business-angle-text-hand-thumbnail.jpg" crc="3789847413" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="business-leadership-logo-design-template-vector-20819610-u1207-fr.jpg" crc="3916749873" ref="index"/>
+    <file name="thought-leadership-article-by-shooting-star-w1200.jpg" crc="129007271" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="fb_icon_325x325.png" crc="254305756" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -104,64 +108,56 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="saif2-u965-fr.jpg" crc="3774259386" ref="index"/>
-    <file name="u1002-142.png" crc="335515966" ref="index"/>
     <file name="unnamed-u1079-fr.jpg" crc="3934064986" ref="index"/>
+    <file name="u1002-162.png" crc="448752989" ref="index"/>
     <file name="594856e648906266caa5f442141b4119_divergent-thinking-thought-download-ppt-divergent-thinking-_260-320-u1123-fr.jpg" crc="389598961" ref="index"/>
     <file name="1979427-u1247-fr2.png" crc="429602272" ref="index"/>
-    <file name="u1111-42.png" crc="151015120" ref="index"/>
+    <file name="u1111-42.png" crc="3864722155" ref="index"/>
     <file name="iot-googlecloud-u1143-fr.jpg" crc="419688719" ref="index"/>
     <file name="kissclipart-project-management-icon-clipart-project-management-062ca4c211553138-u1195-fr2.jpg" crc="304842759" ref="index"/>
     <file name="business-presentation-isolated-icon-simple-element-illustration-humans-concept-icons-editable-logo-sign-symbol-design-142290153-u1259-fr.jpg" crc="3880416384" ref="index"/>
     <file name="png-transparent-strategic-negotiations-strategy-business-management-business-angle-text-hand-thumbnail-u1271-fr.jpg" crc="178475524" ref="index"/>
-    <file name="business-leadership-logo-design-template-vector-20819610-u1207-fr2.jpg" crc="364790275" ref="index"/>
-    <file name="u1002-143.png" crc="215191266" ref="index"/>
+    <file name="thought-leadership-article-by-shooting-star-w1200-u1207-fr.jpg" crc="4146401975" ref="index"/>
+    <file name="saif2-u965-fr.jpg" crc="33317075" ref="index"/>
     <file name="unnamed-u1079-fr2.jpg" crc="108592455" ref="index"/>
+    <file name="u1002-163.png" crc="4016835696" ref="index"/>
     <file name="594856e648906266caa5f442141b4119_divergent-thinking-thought-download-ppt-divergent-thinking-_260-320-u1123-fr2.jpg" crc="122158874" ref="index"/>
     <file name="1979427-u1247-fr3.png" crc="3883125017" ref="index"/>
-    <file name="u1111-43.png" crc="3828850054" ref="index"/>
+    <file name="thought-leadership-article-by-shooting-star-w1200-u1207-fr2.jpg" crc="3996986237" ref="index"/>
+    <file name="u1111-43.png" crc="111248890" ref="index"/>
     <file name="kissclipart-project-management-icon-clipart-project-management-062ca4c211553138-u1195-fr3.jpg" crc="340705035" ref="index"/>
-    <file name="880209-200.png" crc="4276316318" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="blank.gif" crc="4208392903" ref="index:portfolio:resume:gallery:contact:education:certificate:experiences:achievement:personal-gallary:project"/>
-    <file name="u2557.png" crc="4018558394" ref="index:portfolio:resume:gallery:contact:education:certificate:experiences:achievement:personal-gallary:project"/>
-    <file name="u2557-r.png" crc="446721324" ref="index:portfolio:resume:gallery:contact:education:certificate:experiences:achievement:personal-gallary:project"/>
-    <file name="u2557-m.png" crc="18476832" ref="index:portfolio:resume:gallery:contact:education:certificate:experiences:achievement:personal-gallary:project"/>
-    <file name="u2557-a.png" crc="4208719058" ref="index:portfolio:resume:gallery:contact:education:certificate:experiences:achievement:personal-gallary:project"/>
-    <file name="u2553.png" crc="3171420" ref="index:portfolio:resume:gallery:contact:education:certificate:experiences:achievement:personal-gallary:project"/>
-    <file name="u2553-r.png" crc="4204091570" ref="index:portfolio:resume:gallery:contact:education:certificate:experiences:achievement:personal-gallary:project"/>
-    <file name="u2553-m.png" crc="148500858" ref="index:portfolio:resume:gallery:contact:education:certificate:experiences:achievement:personal-gallary:project"/>
-    <file name="u2553-a.png" crc="4007036160" ref="index:portfolio:resume:gallery:contact:education:certificate:experiences:achievement:personal-gallary:project"/>
-    <file name="arrowmenuright.png" crc="41086373" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="u2835-4.png" crc="93369468" ref="index:portfolio:resume:gallery:contact:education:certificate:experiences:achievement:personal-gallary:project"/>
-    <file name="u16811-4.png" crc="298880270" ref="index:portfolio:resume:gallery:contact:education:certificate:experiences:achievement:personal-gallary:project"/>
-    <file name="u2875-4.png" crc="496495263" ref="index:portfolio:resume:gallery:contact:education:certificate:experiences:achievement:personal-gallary:project"/>
-    <file name="u2942-4.png" crc="262359450" ref="index:portfolio:resume:gallery:contact:education:certificate:experiences:achievement:personal-gallary:project"/>
-    <file name="u2642.png" crc="16906421" ref="index:portfolio:resume:gallery:contact:education:certificate:experiences:achievement:personal-gallary:project"/>
-    <file name="u2642-r.png" crc="459119027" ref="index:portfolio:resume:gallery:contact:education:certificate:experiences:achievement:personal-gallary:project"/>
-    <file name="u2642-m.png" crc="4044946579" ref="index:portfolio:resume:gallery:contact:education:certificate:experiences:achievement:personal-gallary:project"/>
-    <file name="u2642-a.png" crc="3888340591" ref="index:portfolio:resume:gallery:contact:education:certificate:experiences:achievement:personal-gallary:project"/>
-    <file name="u2705.png" crc="3821227579" ref="index:portfolio:resume:gallery:contact:education:certificate:experiences:achievement:personal-gallary:project"/>
-    <file name="u2705-r.png" crc="4203617691" ref="index:portfolio:resume:gallery:contact:education:certificate:experiences:achievement:personal-gallary:project"/>
-    <file name="u2705-m.png" crc="3805640806" ref="index:portfolio:resume:gallery:contact:education:certificate:experiences:achievement:personal-gallary:project"/>
-    <file name="u2705-a.png" crc="3808240469" ref="index:portfolio:resume:gallery:contact:education:certificate:experiences:achievement:personal-gallary:project"/>
-    <file name="u2769.png" crc="3791368417" ref="index:portfolio:resume:gallery:contact:education:certificate:experiences:achievement:personal-gallary:project"/>
-    <file name="u2769-r.png" crc="4054854296" ref="index:portfolio:resume:gallery:contact:education:certificate:experiences:achievement:personal-gallary:project"/>
-    <file name="u2769-m.png" crc="16298532" ref="index:portfolio:resume:gallery:contact:education:certificate:experiences:achievement:personal-gallary:project"/>
-    <file name="u2769-a.png" crc="4172529676" ref="index:portfolio:resume:gallery:contact:education:certificate:experiences:achievement:personal-gallary:project"/>
-    <file name="u2540.png" crc="404298959" ref="index:portfolio:resume:gallery:contact:education:certificate:experiences:achievement:personal-gallary:project"/>
-    <file name="u2540-r.png" crc="352862482" ref="index:portfolio:resume:gallery:contact:education:certificate:experiences:achievement:personal-gallary:project"/>
-    <file name="u2540-m.png" crc="14005745" ref="index:portfolio:resume:gallery:contact:education:certificate:experiences:achievement:personal-gallary:project"/>
-    <file name="u1002-144.png" crc="12278700" ref="index"/>
+    <file name="saif2-u965-fr2.jpg" crc="47122347" ref="index"/>
     <file name="unnamed-u1079-fr3.jpg" crc="4053541468" ref="index"/>
-    <file name="u1111-44.png" crc="3787188267" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:portfolio:resume:gallery:contact:education:certificate:experiences:achievement:personal-gallary:project"/>
+    <file name="arrowmenuright.png" crc="41086373" ref="index:portfolio:resume:gallery:contact:education:certificate:experiences:achievement:personal-gallary:project">
+      <caption webpage="education" alt=""/>
+      <caption webpage="education" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="resume" alt=""/>
+      <caption webpage="resume" alt=""/>
+      <caption webpage="experiences" alt=""/>
+      <caption webpage="experiences" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="project" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="personal-gallary" alt=""/>
+      <caption webpage="personal-gallary" alt=""/>
+      <caption webpage="achievement" alt=""/>
+      <caption webpage="achievement" alt=""/>
+      <caption webpage="certificate" alt=""/>
+      <caption webpage="certificate" alt=""/>
+    </file>
+    <file name="u1002-164.png" crc="171734322" ref="index"/>
+    <file name="u1111-44.png" crc="3762767557" ref="index"/>
     <file name="594856e648906266caa5f442141b4119_divergent-thinking-thought-download-ppt-divergent-thinking-_260-320-u1123-fr3.jpg" crc="486546660" ref="index"/>
     <file name="business-presentation-isolated-icon-simple-element-illustration-humans-concept-icons-editable-logo-sign-symbol-design-142290153-u1259-fr2.jpg" crc="4258685879" ref="index"/>
+    <file name="thought-leadership-article-by-shooting-star-w1200-u1207-fr3.jpg" crc="128036532" ref="index"/>
     <file name="kissclipart-project-management-icon-clipart-project-management-062ca4c211553138-u1195-fr4.jpg" crc="4211766594" ref="index"/>
     <file name="png-transparent-strategic-negotiations-strategy-business-management-business-angle-text-hand-thumbnail-u1271-fr2.jpg" crc="69653926" ref="index"/>
     <file name="u16941-4.png" crc="3808007198" ref="portfolio"/>
@@ -198,8 +194,8 @@
     <file name="u17005-43.png" crc="408043532" ref="portfolio"/>
     <file name="u17008-43.png" crc="4027716722" ref="portfolio"/>
     <file name="u17127-53.png" crc="3843926459" ref="portfolio"/>
-    <file name="u16941-44.png" crc="4202888746" ref="portfolio"/>
     <file name="istock-1154631974-u16932-fr2.jpg" crc="3865922940" ref="portfolio"/>
+    <file name="u16941-44.png" crc="4202888746" ref="portfolio"/>
     <file name="u16950-44.png" crc="3961279423" ref="portfolio"/>
     <file name="u16975-44.png" crc="3858385858" ref="portfolio"/>
     <file name="u17005-44.png" crc="3883188279" ref="portfolio"/>
@@ -215,8 +211,8 @@
     <file name="u10196-53.png" crc="3995646396" ref="resume"/>
     <file name="u10190-53.png" crc="4030391904" ref="resume"/>
     <file name="photo-1576080343415-2ee7b4fc4764-u10176-fr.jpg" crc="380588120" ref="resume"/>
-    <file name="u10196-54.png" crc="3813198973" ref="resume"/>
     <file name="u10190-54.png" crc="3843097728" ref="resume"/>
+    <file name="u10196-54.png" crc="3813198973" ref="resume"/>
     <file name="u10050-4.png" crc="409868581" ref="gallery"/>
     <file name="hand-holding-trophy-concept-for-winning-in-sports-business-png_133099.jpg" crc="4151989460" ref="gallery">
       <caption webpage="gallery" alt=""/>
@@ -300,11 +296,11 @@
     <file name="u3868-42.png" crc="4207752301" ref="certificate"/>
     <file name="u3869-42.png" crc="420057710" ref="certificate"/>
     <file name="u3610-43.png" crc="3970880821" ref="certificate"/>
-    <file name="u3868-43.png" crc="3981492287" ref="certificate"/>
-    <file name="u3869-43.png" crc="4263988917" ref="certificate"/>
-    <file name="u3610-44.png" crc="4106594468" ref="certificate"/>
-    <file name="u3868-44.png" crc="410125613" ref="certificate"/>
-    <file name="u3869-44.png" crc="250719283" ref="certificate"/>
+    <file name="u3868-43.png" crc="93039688" ref="certificate"/>
+    <file name="u3869-43.png" crc="250719283" ref="certificate"/>
+    <file name="u3610-44.png" crc="3938357882" ref="certificate"/>
+    <file name="u3868-44.png" crc="47833311" ref="certificate"/>
+    <file name="u3869-44.png" crc="220655932" ref="certificate"/>
     <file name="u3225-5.png" crc="250882084" ref="experiences"/>
     <file name="u3197-4.png" crc="34362763" ref="experiences"/>
     <file name="u3231-4.png" crc="312119210" ref="experiences"/>
@@ -471,7 +467,7 @@
     <file name="44-crop-u8304.jpg" crc="182677558" seo="true" ref="achievement">
       <caption webpage="achievement" alt=""/>
     </file>
-    <file name="85052734_3283895501627690_8740620182390571008_o-crop-u8310.jpg" crc="3953339031" seo="true" ref="achievement">
+    <file name="85052734_3283895501627690_8740620182390571008_o-crop-u8310.jpg" crc="163812166" seo="true" ref="achievement">
       <caption webpage="achievement" alt=""/>
     </file>
     <file name="55-crop-u8318.jpg" crc="77461228" seo="true" ref="achievement">
@@ -492,7 +488,7 @@
     <file name="sdasda-crop-u8354.jpg" crc="3879951492" seo="true" ref="achievement">
       <caption webpage="achievement" alt=""/>
     </file>
-    <file name="85052734_3283895501627690_8740620182390571008_o-crop-u8344.jpg" crc="4117611509" seo="true" ref="achievement">
+    <file name="85052734_3283895501627690_8740620182390571008_o-crop-u8344.jpg" crc="3970305260" seo="true" ref="achievement">
       <caption webpage="achievement" alt=""/>
     </file>
     <file name="44-crop-u8338.jpg" crc="4260652381" seo="true" ref="achievement">
@@ -530,7 +526,7 @@
     <file name="dsc_0915-crop-u8224.jpg" crc="127941449" seo="true" ref="achievement">
       <caption webpage="achievement" alt=""/>
     </file>
-    <file name="dsc_0915-crop-u8227.jpg" crc="3791531001" seo="true" ref="achievement">
+    <file name="dsc_0915-crop-u8227.jpg" crc="391651808" seo="true" ref="achievement">
       <caption webpage="achievement" alt=""/>
     </file>
     <file name="u8218-42.png" crc="3898046684" ref="achievement"/>
@@ -584,7 +580,7 @@
     <file name="44-crop-u83042.jpg" crc="4168366352" seo="true" ref="achievement">
       <caption webpage="achievement" alt=""/>
     </file>
-    <file name="85052734_3283895501627690_8740620182390571008_o-crop-u83102.jpg" crc="3816416725" seo="true" ref="achievement">
+    <file name="85052734_3283895501627690_8740620182390571008_o-crop-u83102.jpg" crc="186243660" seo="true" ref="achievement">
       <caption webpage="achievement" alt=""/>
     </file>
     <file name="55-crop-u83182.jpg" crc="293299706" seo="true" ref="achievement">
@@ -605,7 +601,7 @@
     <file name="sdasda-crop-u83542.jpg" crc="3768234421" seo="true" ref="achievement">
       <caption webpage="achievement" alt=""/>
     </file>
-    <file name="85052734_3283895501627690_8740620182390571008_o-crop-u83442.jpg" crc="122189672" seo="true" ref="achievement">
+    <file name="85052734_3283895501627690_8740620182390571008_o-crop-u83442.jpg" crc="29458729" seo="true" ref="achievement">
       <caption webpage="achievement" alt=""/>
     </file>
     <file name="44-crop-u83382.jpg" crc="4271343050" seo="true" ref="achievement">
@@ -702,7 +698,7 @@
     <file name="44-crop-u83043.jpg" crc="4092213256" seo="true" ref="achievement">
       <caption webpage="achievement" alt=""/>
     </file>
-    <file name="85052734_3283895501627690_8740620182390571008_o-crop-u83103.jpg" crc="3988703457" seo="true" ref="achievement">
+    <file name="85052734_3283895501627690_8740620182390571008_o-crop-u83103.jpg" crc="3777113751" seo="true" ref="achievement">
       <caption webpage="achievement" alt=""/>
     </file>
     <file name="55-crop-u83183.jpg" crc="14373602" seo="true" ref="achievement">
@@ -723,7 +719,7 @@
     <file name="sdasda-crop-u83543.jpg" crc="240856524" seo="true" ref="achievement">
       <caption webpage="achievement" alt=""/>
     </file>
-    <file name="85052734_3283895501627690_8740620182390571008_o-crop-u83443.jpg" crc="3846171391" seo="true" ref="achievement">
+    <file name="85052734_3283895501627690_8740620182390571008_o-crop-u83443.jpg" crc="4285257210" seo="true" ref="achievement">
       <caption webpage="achievement" alt=""/>
     </file>
     <file name="44-crop-u83383.jpg" crc="4169469097" seo="true" ref="achievement">
@@ -826,7 +822,7 @@
     <file name="23-crop-u83124.jpg" crc="8830624" seo="true" ref="achievement">
       <caption webpage="achievement" alt=""/>
     </file>
-    <file name="85052734_3283895501627690_8740620182390571008_o-crop-u83104.jpg" crc="381894248" seo="true" ref="achievement">
+    <file name="85052734_3283895501627690_8740620182390571008_o-crop-u83104.jpg" crc="149037644" seo="true" ref="achievement">
       <caption webpage="achievement" alt=""/>
     </file>
     <file name="sdasda-crop-u83024.jpg" crc="53442307" seo="true" ref="achievement">
@@ -841,7 +837,7 @@
     <file name="sdasda-crop-u83544.jpg" crc="4044282278" seo="true" ref="achievement">
       <caption webpage="achievement" alt=""/>
     </file>
-    <file name="85052734_3283895501627690_8740620182390571008_o-crop-u83444.jpg" crc="4150074074" seo="true" ref="achievement">
+    <file name="85052734_3283895501627690_8740620182390571008_o-crop-u83444.jpg" crc="4061367642" seo="true" ref="achievement">
       <caption webpage="achievement" alt=""/>
     </file>
     <file name="44-crop-u83384.jpg" crc="339392532" seo="true" ref="achievement">
@@ -1018,26 +1014,32 @@
       <caption webpage="personal-gallary" alt=""/>
       <caption webpage="personal-gallary" alt=""/>
     </file>
-    <file name="u14328-4.png" crc="522587872" ref="personal-gallary"/>
+    <file name="u14328-4.png" crc="225939308" ref="personal-gallary"/>
     <file name="_dsc5238-crop-u14367.jpg" crc="4142525443" seo="true" ref="personal-gallary">
       <caption webpage="personal-gallary" alt=""/>
     </file>
-    <file name="saif-crop-u14693.jpg" crc="4133422511" seo="true" ref="personal-gallary">
+    <file name="saif-crop-u17655.jpg" crc="4065456796" seo="true" ref="personal-gallary">
       <caption webpage="personal-gallary" alt=""/>
     </file>
     <file name="_dsc5279-crop-u14565.jpg" crc="4145829575" seo="true" ref="personal-gallary">
       <caption webpage="personal-gallary" alt=""/>
     </file>
+    <file name="saif-crop-u14693.jpg" crc="4133422511" seo="true" ref="personal-gallary">
+      <caption webpage="personal-gallary" alt=""/>
+    </file>
     <file name="img_9708-crop-u14629.jpg" crc="3969357395" seo="true" ref="personal-gallary">
       <caption webpage="personal-gallary" alt=""/>
     </file>
-    <file name="_dsc5238-crop-u14355.jpg" crc="79270931" seo="true" ref="personal-gallary">
+    <file name="_dsc5238-crop-u14355.jpg" crc="87927687" seo="true" ref="personal-gallary">
       <caption webpage="personal-gallary" alt=""/>
     </file>
     <file name="_dsc5279-crop-u14547.jpg" crc="3762747330" seo="true" ref="personal-gallary">
       <caption webpage="personal-gallary" alt=""/>
     </file>
     <file name="img_9708-crop-u14611.jpg" crc="4124302392" seo="true" ref="personal-gallary">
+      <caption webpage="personal-gallary" alt=""/>
+    </file>
+    <file name="saif-crop-u17637.jpg" crc="4262904659" seo="true" ref="personal-gallary">
       <caption webpage="personal-gallary" alt=""/>
     </file>
     <file name="saif-crop-u14675.jpg" crc="374489847" seo="true" ref="personal-gallary">
@@ -1174,14 +1176,17 @@
     <file name="100061596_2965511680228645_4755076254678384640_n-crop-u134972.jpg" crc="4057992168" seo="true" ref="personal-gallary">
       <caption webpage="personal-gallary" alt=""/>
     </file>
-    <file name="u14328-42.png" crc="84927133" ref="personal-gallary"/>
+    <file name="u14328-42.png" crc="3949801159" ref="personal-gallary"/>
     <file name="_dsc5238-crop-u143672.jpg" crc="75383010" seo="true" ref="personal-gallary">
       <caption webpage="personal-gallary" alt=""/>
     </file>
-    <file name="saif-crop-u146932.jpg" crc="3806304162" seo="true" ref="personal-gallary">
+    <file name="saif-crop-u176552.jpg" crc="3869338392" seo="true" ref="personal-gallary">
       <caption webpage="personal-gallary" alt=""/>
     </file>
     <file name="_dsc5279-crop-u145652.jpg" crc="207305525" seo="true" ref="personal-gallary">
+      <caption webpage="personal-gallary" alt=""/>
+    </file>
+    <file name="saif-crop-u146932.jpg" crc="3806304162" seo="true" ref="personal-gallary">
       <caption webpage="personal-gallary" alt=""/>
     </file>
     <file name="img_9708-crop-u146292.jpg" crc="391119969" seo="true" ref="personal-gallary">
@@ -1194,6 +1199,9 @@
       <caption webpage="personal-gallary" alt=""/>
     </file>
     <file name="img_9708-crop-u146112.jpg" crc="345557311" seo="true" ref="personal-gallary">
+      <caption webpage="personal-gallary" alt=""/>
+    </file>
+    <file name="saif-crop-u176372.jpg" crc="300410291" seo="true" ref="personal-gallary">
       <caption webpage="personal-gallary" alt=""/>
     </file>
     <file name="saif-crop-u146752.jpg" crc="4197698611" seo="true" ref="personal-gallary">
@@ -1337,14 +1345,17 @@
     <file name="99060857_2951357784977368_4409795522991226880_n588x331.jpg" crc="336554010" seo="true" ref="personal-gallary">
       <caption webpage="personal-gallary" alt=""/>
     </file>
-    <file name="u14328-43.png" crc="4012923021" ref="personal-gallary"/>
+    <file name="u14328-43.png" crc="530011917" ref="personal-gallary"/>
     <file name="_dsc5238-crop-u143673.jpg" crc="143946532" seo="true" ref="personal-gallary">
       <caption webpage="personal-gallary" alt=""/>
     </file>
-    <file name="saif-crop-u146933.jpg" crc="3976957538" seo="true" ref="personal-gallary">
+    <file name="saif-crop-u176553.jpg" crc="13340465" seo="true" ref="personal-gallary">
       <caption webpage="personal-gallary" alt=""/>
     </file>
     <file name="_dsc5279-crop-u145653.jpg" crc="462837584" seo="true" ref="personal-gallary">
+      <caption webpage="personal-gallary" alt=""/>
+    </file>
+    <file name="saif-crop-u146933.jpg" crc="3976957538" seo="true" ref="personal-gallary">
       <caption webpage="personal-gallary" alt=""/>
     </file>
     <file name="img_9708-crop-u146293.jpg" crc="228366428" seo="true" ref="personal-gallary">
@@ -1357,6 +1368,9 @@
       <caption webpage="personal-gallary" alt=""/>
     </file>
     <file name="img_9708-crop-u146113.jpg" crc="3935552935" seo="true" ref="personal-gallary">
+      <caption webpage="personal-gallary" alt=""/>
+    </file>
+    <file name="saif-crop-u176373.jpg" crc="4117401778" seo="true" ref="personal-gallary">
       <caption webpage="personal-gallary" alt=""/>
     </file>
     <file name="saif-crop-u146753.jpg" crc="3777440435" seo="true" ref="personal-gallary">
@@ -1501,14 +1515,17 @@
     <file name="99060857_2951357784977368_4409795522991226880_n336x189.jpg" crc="294867965" seo="true" ref="personal-gallary">
       <caption webpage="personal-gallary" alt=""/>
     </file>
-    <file name="u14328-44.png" crc="224020222" ref="personal-gallary"/>
+    <file name="u14328-44.png" crc="4078212687" ref="personal-gallary"/>
     <file name="_dsc5238-crop-u143674.jpg" crc="419437631" seo="true" ref="personal-gallary">
       <caption webpage="personal-gallary" alt=""/>
     </file>
-    <file name="saif-crop-u146934.jpg" crc="4097558876" seo="true" ref="personal-gallary">
+    <file name="saif-crop-u176554.jpg" crc="4213352205" seo="true" ref="personal-gallary">
       <caption webpage="personal-gallary" alt=""/>
     </file>
     <file name="_dsc5279-crop-u145654.jpg" crc="3776407525" seo="true" ref="personal-gallary">
+      <caption webpage="personal-gallary" alt=""/>
+    </file>
+    <file name="saif-crop-u146934.jpg" crc="4097558876" seo="true" ref="personal-gallary">
       <caption webpage="personal-gallary" alt=""/>
     </file>
     <file name="img_9708-crop-u146294.jpg" crc="428138079" seo="true" ref="personal-gallary">
@@ -1521,6 +1538,9 @@
       <caption webpage="personal-gallary" alt=""/>
     </file>
     <file name="img_9708-crop-u146114.jpg" crc="4284039275" seo="true" ref="personal-gallary">
+      <caption webpage="personal-gallary" alt=""/>
+    </file>
+    <file name="saif-crop-u176374.jpg" crc="3928769696" seo="true" ref="personal-gallary">
       <caption webpage="personal-gallary" alt=""/>
     </file>
     <file name="saif-crop-u146754.jpg" crc="4267744361" seo="true" ref="personal-gallary">
@@ -1587,15 +1607,15 @@
     <file name="u16731-44.png" crc="4216098659" ref="project"/>
     <file name="u16739-44.png" crc="277858387" ref="project"/>
   </folder>
-  <file name="index.html" crc="391658808" seo="true" mt="1592157714032" redirect="true"/>
-  <file name="portfolio.html" crc="3853126851" seo="true" mt="1592157714032" redirect="true"/>
-  <file name="resume.html" crc="498958124" seo="true" mt="1592157714032" redirect="true"/>
-  <file name="gallery.html" crc="4061482230" seo="true" mt="1592157714037" redirect="true"/>
-  <file name="contact.html" crc="398184755" seo="true" mt="1592157714032" redirect="true"/>
-  <file name="education.html" crc="4117588493" seo="true" mt="1592158610648" redirect="true"/>
-  <file name="certificate.html" crc="3868364544" seo="true" mt="1592157714032" redirect="true"/>
-  <file name="experiences.html" crc="3780081542" seo="true" mt="1592157714032" redirect="true"/>
-  <file name="achievement.html" crc="257261796" seo="true" mt="1592157714032" redirect="true"/>
-  <file name="personal-gallary.html" crc="51200049" seo="true" mt="1592157714032" redirect="true"/>
-  <file name="project.html" crc="4273234692" seo="true" mt="1592157714032" redirect="true"/>
+  <file name="index.html" crc="338005028" seo="true" mt="1592546801380" redirect="true"/>
+  <file name="portfolio.html" crc="3842819736" seo="true" mt="1592546832585" redirect="true"/>
+  <file name="resume.html" crc="22070298" seo="true" mt="1592546848216" redirect="true"/>
+  <file name="gallery.html" crc="3934998739" seo="true" mt="1592546858729" redirect="true"/>
+  <file name="contact.html" crc="3926113069" seo="true" mt="1592546314011" redirect="true"/>
+  <file name="education.html" crc="3843193831" seo="true" mt="1592546881432" redirect="true"/>
+  <file name="certificate.html" crc="153533054" seo="true" mt="1592546892962" redirect="true"/>
+  <file name="experiences.html" crc="105464707" seo="true" mt="1592546901596" redirect="true"/>
+  <file name="achievement.html" crc="470517673" seo="true" mt="1592546919223" redirect="true"/>
+  <file name="personal-gallary.html" crc="3986994309" seo="true" mt="1592546927937" redirect="true"/>
+  <file name="project.html" crc="65261654" seo="true" mt="1592546314011" redirect="true"/>
 </manifest>

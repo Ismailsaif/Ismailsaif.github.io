@@ -2,55 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://saif.com/index.html</loc>
-    <lastmod>2020-06-15</lastmod>
+    <lastmod>2020-06-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://saif.com/portfolio.html</loc>
-    <lastmod>2020-06-15</lastmod>
+    <lastmod>2020-06-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://saif.com/resume.html</loc>
-    <lastmod>2020-06-15</lastmod>
+    <lastmod>2020-06-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://saif.com/gallery.html</loc>
-    <lastmod>2020-06-15</lastmod>
+    <lastmod>2020-06-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://saif.com/contact.html</loc>
-    <lastmod>2020-06-15</lastmod>
+    <lastmod>2020-06-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://saif.com/education.html</loc>
-    <lastmod>2020-06-15</lastmod>
+    <lastmod>2020-06-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://saif.com/certificate.html</loc>
-    <lastmod>2020-06-15</lastmod>
+    <lastmod>2020-06-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://saif.com/experiences.html</loc>
-    <lastmod>2020-06-15</lastmod>
+    <lastmod>2020-06-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://saif.com/achievement.html</loc>
-    <lastmod>2020-06-15</lastmod>
+    <lastmod>2020-06-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -500,7 +500,7 @@
   </url>
   <url>
     <loc>http://saif.com/personal-gallary.html</loc>
-    <lastmod>2020-06-15</lastmod>
+    <lastmod>2020-06-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -639,10 +639,13 @@
       <image:loc>http://saif.com/images/_dsc5238-crop-u14367.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://saif.com/images/saif-crop-u14693.jpg</image:loc>
+      <image:loc>http://saif.com/images/saif-crop-u17655.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://saif.com/images/_dsc5279-crop-u14565.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://saif.com/images/saif-crop-u14693.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://saif.com/images/img_9708-crop-u14629.jpg</image:loc>
@@ -655,6 +658,9 @@
     </image:image>
     <image:image>
       <image:loc>http://saif.com/images/img_9708-crop-u14611.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://saif.com/images/saif-crop-u17637.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://saif.com/images/saif-crop-u14675.jpg</image:loc>
@@ -789,10 +795,13 @@
       <image:loc>http://saif.com/images/_dsc5238-crop-u143672.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://saif.com/images/saif-crop-u146932.jpg</image:loc>
+      <image:loc>http://saif.com/images/saif-crop-u176552.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://saif.com/images/_dsc5279-crop-u145652.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://saif.com/images/saif-crop-u146932.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://saif.com/images/img_9708-crop-u146292.jpg</image:loc>
@@ -805,6 +814,9 @@
     </image:image>
     <image:image>
       <image:loc>http://saif.com/images/img_9708-crop-u146112.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://saif.com/images/saif-crop-u176372.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://saif.com/images/saif-crop-u146752.jpg</image:loc>
@@ -945,10 +957,13 @@
       <image:loc>http://saif.com/images/_dsc5238-crop-u143673.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://saif.com/images/saif-crop-u146933.jpg</image:loc>
+      <image:loc>http://saif.com/images/saif-crop-u176553.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://saif.com/images/_dsc5279-crop-u145653.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://saif.com/images/saif-crop-u146933.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://saif.com/images/img_9708-crop-u146293.jpg</image:loc>
@@ -961,6 +976,9 @@
     </image:image>
     <image:image>
       <image:loc>http://saif.com/images/img_9708-crop-u146113.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://saif.com/images/saif-crop-u176373.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://saif.com/images/saif-crop-u146753.jpg</image:loc>
@@ -1101,10 +1119,13 @@
       <image:loc>http://saif.com/images/_dsc5238-crop-u143674.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://saif.com/images/saif-crop-u146934.jpg</image:loc>
+      <image:loc>http://saif.com/images/saif-crop-u176554.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://saif.com/images/_dsc5279-crop-u145654.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://saif.com/images/saif-crop-u146934.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://saif.com/images/img_9708-crop-u146294.jpg</image:loc>
@@ -1119,12 +1140,15 @@
       <image:loc>http://saif.com/images/img_9708-crop-u146114.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://saif.com/images/saif-crop-u176374.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://saif.com/images/saif-crop-u146754.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://saif.com/project.html</loc>
-    <lastmod>2020-06-15</lastmod>
+    <lastmod>2020-06-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
